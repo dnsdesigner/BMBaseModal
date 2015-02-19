@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary      = "Simple Modal Written in Swift"
   s.homepage     = "https://github.com/dnsdesigner/BMBaseModal"
 
-  s.license      = { :type => "MIT", :file => "LICENCE" }
+  s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author       = { "Dennis de Oliveira" => "dennis@viacompany.com.br" }
   s.platform     = :ios
   s.ios.deployment_target = '7.1'
