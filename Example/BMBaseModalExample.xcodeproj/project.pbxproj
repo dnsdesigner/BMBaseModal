@@ -10,9 +10,6 @@
 		EA3F38051A96487100D6E331 /* BMBaseModal.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA3F38041A96487100D6E331 /* BMBaseModal.swift */; };
 		EA93707A1A9647DA00ECF14C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA9370791A9647DA00ECF14C /* AppDelegate.swift */; };
 		EA93707C1A9647DA00ECF14C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA93707B1A9647DA00ECF14C /* ViewController.swift */; };
-		EA93707F1A9647DA00ECF14C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA93707D1A9647DA00ECF14C /* Main.storyboard */; };
-		EA9370811A9647DA00ECF14C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA9370801A9647DA00ECF14C /* Images.xcassets */; };
-		EA9370841A9647DA00ECF14C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = EA9370821A9647DA00ECF14C /* LaunchScreen.xib */; };
 		EA9370901A9647DA00ECF14C /* BMBaseModalExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA93708F1A9647DA00ECF14C /* BMBaseModalExampleTests.swift */; };
 /* End PBXBuildFile section */
 
@@ -132,7 +129,6 @@
 			buildPhases = (
 				EA9370701A9647DA00ECF14C /* Sources */,
 				EA9370711A9647DA00ECF14C /* Frameworks */,
-				EA9370721A9647DA00ECF14C /* Resources */,
 			);
 			buildRules = (
 			);
@@ -199,16 +195,6 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		EA9370721A9647DA00ECF14C /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				EA93707F1A9647DA00ECF14C /* Main.storyboard in Resources */,
-				EA9370841A9647DA00ECF14C /* LaunchScreen.xib in Resources */,
-				EA9370811A9647DA00ECF14C /* Images.xcassets in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		EA9370871A9647DA00ECF14C /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
